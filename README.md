@@ -8,7 +8,7 @@
   
 	- 采用layer实现
          - 如下是自己采用layer实现的扩展，以供参考
-	  -  code url ：
+	  -  code url ：https://github.com/ZanderDev/CALayer-CornerAndShadow
 		
 	- 采用UIView实现：
 	  - 简单版：https://blog.csdn.net/Crazy_SunShine/article/details/78029229
